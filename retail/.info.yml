@@ -1,0 +1,7 @@
+name: Retail
+type: module
+description: 'Retail Section Of Pegke'
+package: Pegke
+core: 8.x
+dependencies:
+  - node
